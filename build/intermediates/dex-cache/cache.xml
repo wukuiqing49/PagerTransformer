@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_7c9627083abb7b336b51de0fc8db5345088532bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_da05dc80e5159951f3dcfb261056d9a8dc6d3429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_4728a6b017126a6b440082d0a023a26d8b7906fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e4e460c050d9b2c5e9d4289b77b471c8b9873459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c8bce9a264656ac7bc51b8059f4278e42e3e4a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_46ff37ee2efab52c4f3f79aba7c1acacaa2c70d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1d1415363dffc68e7e5e172b6c59d76543337336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d731d22b26c383e728719aefabdfbdf09c6f02ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5dad17690a52e2bec8b8c1e14166ad72567ab91a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_b95f632652f0e37596cfe682cec2c43be55bdd03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\SDK\androidsdk_0725\androidsdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_9528c260578a749c0eef9197d943e3416c90062c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_73eeeddcf520898779a72be2341ee95df1ef3c8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_f50ea769f24d70bf32021aea79a2a2ca85169150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_748f80305ae6e50c863985ada6c1297f489ac092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\demo\android-page-transition-master\PagerTransformerDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_749ba6ed4131e119494365d83229bed3e5fcfd28.jar" />
+    </item>
+
+</items>
